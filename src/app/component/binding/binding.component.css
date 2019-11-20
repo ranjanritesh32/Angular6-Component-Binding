@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-style: italic;
+  text-decoration: underline;
+  //text-decoration: line-through;
+  //text-decoration: underline overline;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.class1{
+  background-color:antiquewhite;
+}
+
+.class2{
+  background-color:red;
+}
